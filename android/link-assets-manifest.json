@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Mukta-Light.ttf",
+      "sha1": "2946ccc8e4f1327584b81beaf528d693860f163e"
+    },
+    {
+      "path": "src/assets/fonts/Mukta-Medium.ttf",
+      "sha1": "263e304176a6c45a8145d7b53eae8f5f8e7c5822"
+    },
+    {
+      "path": "src/assets/fonts/Mukta-Regular.ttf",
+      "sha1": "1adc6d0ff2cc3c45a50ecc03956c162c46c3bd31"
+    }
+  ]
+}
